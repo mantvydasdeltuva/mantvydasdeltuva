@@ -14,5 +14,5 @@
 
 🚀 When I'm not coding, you can find me exploring the latest tech trends, reading tech blogs, or participating in hackathons and coding competitions. I'm also passionate about sharing my knowledge and experiences with the community through blog posts and tech talks.
 
-📫 Let's connect! Feel free to reach out to me here on GitHub or connect with me on LinkedIn [https://www.linkedin.com/in/mantvydasdeltuva/]. I'm always open to collaborations, mentorship opportunities, or just a friendly chat about all things tech!
+📫 Let's connect! Feel free to reach out to me here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/mantvydasdeltuva/). I'm always open to collaborations, mentorship opportunities, or just a friendly chat about all things tech!
 
