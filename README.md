@@ -27,10 +27,16 @@ I’m a passionate software developer and UI/UX designer, dedicated to crafting 
 
 <p align="left">
   <a href="https://github.com/mantvydasdeltuva/guidal">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mantvydasdeltuva&repo=guidal&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="guidal">
-  </a>
-    <a href="https://github.com/mantvydasdeltuva/guidal">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mantvydasdeltuva&repo=guidal&theme=apprentice&card_width=278&border_radius=8&hide_border=true" alt="guidal">
+  </a>
+  <a href="https://github.com/mantvydasdeltuva/guidal">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mantvydasdeltuva&repo=guidal&theme=apprentice&card_width=278&border_radius=8&hide_border=true" alt="guidal">
+  </a>
+  <a href="https://github.com/mantvydasdeltuva/guidal">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mantvydasdeltuva&repo=guidal&theme=apprentice&card_width=278&border_radius=8&hide_border=true" alt="guidal">
+  </a>
+  <a href="https://github.com/mantvydasdeltuva/guidal">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mantvydasdeltuva&repo=guidal&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="guidal">
   </a>
 </p>
 
