@@ -2,7 +2,7 @@
 
 **`Magus Digitus (Developer/Designer)`**
 
-I’m a passionate software developer and UI/UX designer, dedicated to crafting seamless and impactful digital experiences. Every project I work on is built from the ground up — from the initial concept and design to coding solutions that solve different challenges. I thrive on turning ideas into functional, user-friendly applications, blending technical expertise with creative design to make a meaningful impact.
+I’m a passionate software developer and UI/UX designer, dedicated to crafting seamless and impactful digital experiences. Every project I work on is built from the ground up - from the initial concept and design to coding solutions that solve different challenges. I thrive on turning ideas into functional, user-friendly applications, blending technical expertise with creative design to make a meaningful impact.
 
 ---
 
