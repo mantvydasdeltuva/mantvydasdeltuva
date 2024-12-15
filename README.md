@@ -40,5 +40,5 @@ I’m a passionate software developer and UI/UX designer, dedicated to crafting 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mantvydasdeltuva&theme=apprentice&card_width=400&line_height=26&border_radius=4&show_icons=true&hide_title=true&hide_border=true" alt="Mantvydas's GitHub stats">
-<img src="https://streak-stats.demolab.com?user=mantvydasdeltuva&theme=apprentice&card_width=400&card_height=170&border_radius=4&show_icons=true&hide_border=true" alt="Mantvydas's GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=mantvydasdeltuva&theme=apprentice&card_width=400&card_height=174&border_radius=4&show_icons=true&hide_border=true" alt="Mantvydas's GitHub Streak">
 </div>
