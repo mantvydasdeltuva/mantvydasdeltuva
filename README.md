@@ -26,6 +26,6 @@ I’m a passionate software developer and UI/UX designer, dedicated to crafting 
 ### 📊 Stats
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=mantvydasdeltuva&show_icons=true&theme=apprentice" alt="Mantvydas's GitHub stats" style="width: 300px; height: 200px; padding-right:10px; border-radius: 4px;">
-  <img src="https://streak-stats.demolab.com?user=mantvydasdeltuva&show_icons=true&theme=apprentice" alt="Mantvydas's GitHub Streak" style="width: 300px; height: 210px; padding-left:10px; border-radius: 4px;">
+<img src="https://github-readme-stats.vercel.app/api?username=mantvydasdeltuva&show_icons=true&theme=apprentice" alt="Mantvydas's GitHub stats" style="width: 400px; height: 200px; padding-right:10px; border-radius: 4px;">
+<img src="https://streak-stats.demolab.com?user=mantvydasdeltuva&show_icons=true&theme=apprentice" alt="Mantvydas's GitHub Streak" style="width: 400px; height: 210px; padding-left:10px; border-radius: 4px;">
 </div>
