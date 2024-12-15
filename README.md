@@ -1,19 +1,36 @@
-👋 Hello! I'm Mantvydas, a Software Systems student at Kaunas University of Technology (KTU). I'm passionate about exploring the world of software development and solving real-world problems through technology.
+# 🥑 Mantvydas Deltuva
 
-🌱 Currently, I'm diving deep into various programming languages, software architecture, and development methodologies to build robust and scalable software systems. I'm always eager to learn and experiment with new technologies to expand my skill set.
+**`Magus Digitus (Developer/Designer)`**
 
-💻 On GitHub, you'll find a collection of my projects, ranging from web applications to mobile apps, and everything in between. I believe in the power of open-source collaboration and enjoy contributing to projects that align with my interests and values.
+I’m a passionate software developer and UI/UX designer, dedicated to crafting seamless and impactful digital experiences. Every project I work on is built from the ground up — from the initial concept and design to coding solutions that solve different challenges. I thrive on turning ideas into functional, user-friendly applications, blending technical expertise with creative design to make a meaningful impact.
 
-🔧 Some of my areas of interest include:
-- Software Engineering
-- Full-stack Development
-- DevOps and CI/CD
-- Data Structures and Algorithms
-- Machine Learning and Artificial Intelligence
-- IoT applications
+---
 
-🚀 When I'm not coding, you can find me exploring the latest tech trends, reading tech blogs, or participating in hackathons and coding competitions. I'm also passionate about sharing my knowledge and experiences with the community through blog posts and tech talks.
+### 🔧 Languages and Tools
 
-📫 Let's connect! Feel free to reach out to me here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/mantvydasdeltuva/). I'm always open to collaborations, mentorship opportunities, or just a friendly chat about all things tech!
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 
-🌐 Want to learn more about me? Visit my website at www.mandel.lt.
+#
+
+### 📊 Stats
+
+![Mantvydas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantvydasdeltuva&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mantvydasdeltuva&theme=gruvbox&border_radius=4.5)
+
+#
+
+[website]: https://www.mandel.lt
+[linkedin]: https://www.linkedin.com/in/mantvydasdeltuva
