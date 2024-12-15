@@ -36,7 +36,7 @@ I’m a passionate software developer and UI/UX designer, dedicated to crafting 
     <img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mantvydasdeltuva&repo=guidal&theme=apprentice&border_radius=8&hide_border=true" alt="guidal">
   </a>
   <a href="https://github.com/mantvydasdeltuva/guidal">
-    <img width="278" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mantvydasdeltuva&repo=guidal&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="guidal">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mantvydasdeltuva&repo=guidal&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="guidal">
   </a>
 </p>
 
@@ -46,5 +46,5 @@ I’m a passionate software developer and UI/UX designer, dedicated to crafting 
 
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=mantvydasdeltuva&theme=apprentice&card_width=400&line_height=26&border_radius=8&show_icons=true&hide_title=true&hide_border=true" alt="Mantvydas's GitHub stats">
-<img width="400" src="https://streak-stats.demolab.com?user=mantvydasdeltuva&theme=apprentice&card_width=400&card_height=150&border_radius=8&show_icons=true&hide_border=true" alt="Mantvydas's GitHub Streak">
+<img width="400" height="150" src="https://streak-stats.demolab.com?user=mantvydasdeltuva&theme=apprentice&card_width=400&card_height=150&border_radius=8&show_icons=true&hide_border=true" alt="Mantvydas's GitHub Streak">
 </div>
