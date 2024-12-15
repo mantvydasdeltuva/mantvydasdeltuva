@@ -26,11 +26,6 @@ I’m a passionate software developer and UI/UX designer, dedicated to crafting 
 
 ### 📊 Stats
 
-![Mantvydas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantvydasdeltuva&show_icons=true&theme=gruvbox)
+![Mantvydas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantvydasdeltuva&show_icons=true&theme=apprentice)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mantvydasdeltuva&theme=gruvbox&border_radius=4.5)
-
-#
-
-[website]: https://www.mandel.lt
-[linkedin]: https://www.linkedin.com/in/mantvydasdeltuva
+![GitHub Streak](https://streak-stats.demolab.com?user=mantvydasdeltuva&theme=apprentice&border_radius=4.5)
