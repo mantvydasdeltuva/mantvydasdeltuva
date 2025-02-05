@@ -38,4 +38,6 @@ I’m a passionate software engineer and UI/UX designer, dedicated to crafting s
 
 ### Github Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=mantvydasdeltuva&theme=apprentice&border_radius=8&text_color=F0F6FC&icon_color=44911B&bg_color=1E242A&ring_color=44911B&text_bold=false&show_icons=true&hide_title=true&hide_border=true" alt="Mantvydas's GitHub stats">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mantvydasdeltuva&theme=apprentice&border_radius=8&text_color=F0F6FC&icon_color=44911B&bg_color=1E242A&ring_color=44911B&text_bold=false&show_icons=true&hide_title=true&hide_border=true" alt="Mantvydas's GitHub stats">  
+</div>
