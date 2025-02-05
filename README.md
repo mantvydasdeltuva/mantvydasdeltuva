@@ -2,7 +2,7 @@
 
 **`Magus Digitus (Developer/Designer)`**
 
-I’m a passionate software developer and UI/UX designer, dedicated to crafting seamless and impactful digital experiences. Every project I work on is built from the ground up - from the initial concept and design to coding solutions that solve different challenges. I thrive on turning ideas into functional, user-friendly applications, blending technical expertise with creative design to make a meaningful impact.
+I’m a passionate software engineer and UI/UX designer, dedicated to crafting seamless and impactful digital experiences. Every project I work on is built from the ground up - from the initial concept and design to coding solutions that solve different challenges. I thrive on turning ideas into functional, user-friendly applications, blending technical expertise with creative design to make a meaningful impact.
 
 ---
 
@@ -38,7 +38,4 @@ I’m a passionate software developer and UI/UX designer, dedicated to crafting 
 
 ### Github Statistics
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mantvydasdeltuva&theme=apprentice&card_width=400&line_height=26&border_radius=8&text_color=F0F6FC&icon_color=44911B&bg_color=1E242A&ring_color=44911B&text_bold=false&show_icons=true&hide_title=true&hide_border=true" alt="Mantvydas's GitHub stats">
-<img src="https://streak-stats.demolab.com?user=mantvydasdeltuva&theme=apprentice&card_width=400&card_height=171&border_radius=8&background=1E242A&stroke=3D444D&ring=44911B&fire=44911B&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=44911B&dates=9198A1&sideLabels=F0F6FC&show_icons=true&hide_border=true" alt="Mantvydas's GitHub Streak">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=mantvydasdeltuva&theme=apprentice&border_radius=8&text_color=F0F6FC&icon_color=44911B&bg_color=1E242A&ring_color=44911B&text_bold=false&show_icons=true&hide_title=true&hide_border=true" alt="Mantvydas's GitHub stats">
